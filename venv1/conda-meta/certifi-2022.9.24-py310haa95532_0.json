@@ -1,0 +1,48 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/main/win-64",
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/certifi-2022.9.24.dist-info/INSTALLER",
+    "Lib/site-packages/certifi-2022.9.24.dist-info/LICENSE",
+    "Lib/site-packages/certifi-2022.9.24.dist-info/METADATA",
+    "Lib/site-packages/certifi-2022.9.24.dist-info/RECORD",
+    "Lib/site-packages/certifi-2022.9.24.dist-info/REQUESTED",
+    "Lib/site-packages/certifi-2022.9.24.dist-info/WHEEL",
+    "Lib/site-packages/certifi-2022.9.24.dist-info/direct_url.json",
+    "Lib/site-packages/certifi-2022.9.24.dist-info/top_level.txt",
+    "Lib/site-packages/certifi/__init__.py",
+    "Lib/site-packages/certifi/__main__.py",
+    "Lib/site-packages/certifi/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/certifi/__pycache__/__main__.cpython-310.pyc",
+    "Lib/site-packages/certifi/__pycache__/core.cpython-310.pyc",
+    "Lib/site-packages/certifi/cacert.pem",
+    "Lib/site-packages/certifi/core.py",
+    "Lib/site-packages/certifi/py.typed"
+  ],
+  "fn": "certifi-2022.9.24-py310haa95532_0.tar.bz2",
+  "license": "MPL-2.0",
+  "license_family": "Other",
+  "link": {
+    "source": "C:\\Users\\LENOVO\\Anaconda2\\pkgs\\certifi-2022.9.24-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "c52b7346c7b05e7a175a24d021cbf3f6",
+  "name": "certifi",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 161903,
+  "subdir": "win-64",
+  "timestamp": 1665076751770,
+  "url": "https://repo.continuum.io/pkgs/main/win-64/certifi-2022.9.24-py310haa95532_0.tar.bz2",
+  "version": "2022.9.24",
+  "with_features_depends": {}
+}
